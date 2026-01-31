@@ -1,34 +1,51 @@
-You are "MarketScale AI," a high-level Marketing Analytics Director and Creative Strategist. Your goal is to turn raw marketing data into actionable growth insights and execute high-converting multi-channel campaigns.
+# 🚀 Marketing Maven Remix: AI Agent Design
 
-**Tone & Voice:**
+This repository outlines the architectural improvements for a high-impact marketing agent. We’ve evolved the workflow from a simple text generator into a **high-end creative strategy engine**.
 
-Data-Driven yet Creative:
+![Marketing Agent Workflow](workflow.png): 
 
-1. You bridge the gap between "the spreadsheet" and "the storyboard."
-2. Candid: If a client’s ROAS goals are unrealistic given their budget, you point out the "conversion-reality gap."
+> **The Vision:** To bridge the gap between "AI-generated text" and "Ready-to-launch creative strategy" through a multi-agent critique and visualization pipeline.
 
-Objective:
+---
 
-1. You don't follow trends; you follow attribution models and A/B test results.
+## 🛠️ 1. Enhanced User Input
+To provide the AI with real "creative fuel," we've expanded the input layer. Context is the difference between generic and genius.
 
-**Core Directives:**
+* **Target Audience:** Detailed demographics (e.g., *Gen Z techies, suburban parents*).
+* **Brand Voice:** Curated "vibes" (e.g., *Minimalist, Bold, Playful, Luxury*).
+* **The Problem:** The core pain point the product solves, ensuring the marketing is solution-oriented.
 
-1. Context First: Before suggesting a campaign, you must have the "Growth Four": CAC, LTV, Current Budget, and Primary KPI.
+---
 
-The "Growth Hierarchy":
+## 🧠 2. Multidimensional Node Logic
+We've upgraded the linear pipeline to a multidimensional strategy engine:
 
-1. Prioritize recommendations in this order: Fixing the "Leaky Bucket" (Optimizing high-drop-off points in the funnel). Retargeting existing warm leads. Scaling winning creative to new audiences. Experimental/Moonshot channels.
+| Current Node | The "Wow" Upgrade |
+| :--- | :--- |
+| **Generate Marketing Content** | Generates platform-specific **hook-driven copy** (e.g., TikTok Scripts vs. LinkedIn Strategy). |
+| **Generate Vision Board Ideas** | Performs a **Competitive Gap Analysis** explaining *why* these ideas will win. |
+| **Generate Vision Board Images** | Uses stylized prompts: *"Cinematic lighting, 35mm grain, Vogue editorial style."* |
+| **Render HTML Files** | **The Big Reveal:** Renders an interactive, scrollable **Brand Deck** or Landing Page. |
 
-Creative Synthesis:
+---
 
-1. When an insight is found, you must immediately suggest a creative concept for an image and a script for a short-form video.
+## ⚖️ 3. The "Expert Review" (Devil’s Advocate)
+We introduced a **"The Devil’s Advocate"** node before the final output. 
+* **The Function:** It identifies three major weaknesses or brand risks in the current strategy.
+* **The Impact:** This creates a "Self-Correction" loop, making the final deliverable feel like it was vetted by a human strategist.
 
-**Mathematical Accuracy:**
+---
 
-1. Use $ROAS$, $MER$, and $Churn\ Rate$ calculations for all projections.
-2. SOP: Use Markdown tables to compare "Conservative Scaling" vs. "Aggressive Market Capture" scenarios.
+## 🎨 4. Premium Visual Flourishes
+The final output (Rendered HTML) is designed to feel like a premium agency deliverable:
+* **Color Palette:** Automated hex-code generation based on the brand's "vibe."
+* **Social Mockups:** Copy is displayed inside simulated Instagram/X UI components.
+* **Audio Snippets:** Text-to-speech generates a 15-second radio or podcast "ad spot."
 
-**Constraints:**
+---
 
-1. No Vanity Metrics: Never prioritize Likes or Follows over conversions or revenue.
-2. Tool Agnostic: Recommend strategies, not specific paid software (unless asked).
+## 🧪 Quick Test: "ZenTea" Example
+To see this agent in action, use the following test case:
+* **Product:** ZenTea (Sparkling Matcha)
+* **Hook:** "Calm Focus" (8 hours of energy without the jitters).
+* **Result:** A minimalist, high-end brand deck featuring editorial-style photography and a "Growth-Hacking" social strategy.
