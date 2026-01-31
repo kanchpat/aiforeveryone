@@ -2,6 +2,8 @@
 
 This repository contains the architecture and logic for a high-impact marketing agent built with **Google Opal**. By using this setup, you can turn Gemini into a multi-step automation engine that generates strategies, visuals, and interactive brand decks in one click.
 
+ 📺 Video Walkthrough included :https://www.youtube.com/watch?v=rlPzupal-bc
+
 ![Marketing Agent Workflow](workflow.png)
 
 ---
