@@ -1,51 +1,54 @@
 # 🚀 Marketing Maven Remix: AI Agent Design
 
-This repository outlines the architectural improvements for a high-impact marketing agent. We’ve evolved the workflow from a simple text generator into a **high-end creative strategy engine**.
+This repository contains the architecture and logic for a high-impact marketing agent built with **Google Opal**. By using this setup, you can turn Gemini into a multi-step automation engine that generates strategies, visuals, and interactive brand decks in one click.
 
-![Marketing Agent Workflow](workflow.png): 
-
-> **The Vision:** To bridge the gap between "AI-generated text" and "Ready-to-launch creative strategy" through a multi-agent critique and visualization pipeline.
+![Marketing Agent Workflow](workflow.png)
 
 ---
 
-## 🛠️ 1. Enhanced User Input
-To provide the AI with real "creative fuel," we've expanded the input layer. Context is the difference between generic and genius.
+## 🛠️ How to Build Your "Super Gem"
 
-* **Target Audience:** Detailed demographics (e.g., *Gen Z techies, suburban parents*).
-* **Brand Voice:** Curated "vibes" (e.g., *Minimalist, Bold, Playful, Luxury*).
-* **The Problem:** The core pain point the product solves, ensuring the marketing is solution-oriented.
+Follow these steps to deploy this workflow using the **Gemini Gem Manager** and **Opal**.
+
+### 1. Access the Gem Manager
+1. Go to [gemini.google.com/gems](https://gemini.google.com/gems/view).
+2. Look for the **"My Gems from Labs"** section.
+3. Click **+ New Gem**. (If this is your first time, follow the prompts to sign in to the **Opal** experiment).
+
+### 2. The "Super Prompt" (Automated Setup)
+Instead of building every node manually, use Opal's **Natural Language Editor** (the chat box at the bottom) to generate the entire structure instantly. Paste this into the prompt box:
+
+> **The Remix Prompt:**
+> "Build a 'Marketing Maven Remix' agent. Create 4 User Inputs: Product Name, Target Audience, Brand Voice, and The Problem. Chain these into 3 parallel Generate nodes: 1) Platform-specific hooks for TikTok/LinkedIn, 2) A Competitive Gap Analysis, and 3) Vision Board Images with cinematic 35mm styling. Add a final 'Devil’s Advocate' node to critique the strategy for risks before outputting to an Interactive Webpage with auto-layout."
+
+### 3. Fine-Tuning in the Visual Editor
+Once Opal builds the map, click the **Editor** button at the top to polish the logic:
+* **The "Wow" Node:** Select the **Image Generation** node. In the sidebar, ensure the style prompt is set to: *"Cinematic lighting, 35mm film grain, editorial style for Vogue."*
+* **The Expert Review:** Select the **Devil's Advocate** node. Set its prompt to: *"Critique the previous nodes for weaknesses. Act as a grounded strategist, not a 'yes-man'."*
+* **Premium Reveal:** Select the **Output** node and set the type to **Webpage with auto-layout**.
 
 ---
 
-## 🧠 2. Multidimensional Node Logic
-We've upgraded the linear pipeline to a multidimensional strategy engine:
+## 🧠 Strategic Architecture
 
-| Current Node | The "Wow" Upgrade |
+| Component | The "Maven" Improvement |
 | :--- | :--- |
-| **Generate Marketing Content** | Generates platform-specific **hook-driven copy** (e.g., TikTok Scripts vs. LinkedIn Strategy). |
-| **Generate Vision Board Ideas** | Performs a **Competitive Gap Analysis** explaining *why* these ideas will win. |
-| **Generate Vision Board Images** | Uses stylized prompts: *"Cinematic lighting, 35mm grain, Vogue editorial style."* |
-| **Render HTML Files** | **The Big Reveal:** Renders an interactive, scrollable **Brand Deck** or Landing Page. |
+| **Input Nodes** | Expanded to include "The Problem" and "Brand Vibe" for better creative context. |
+| **Logic Nodes** | Multidimensional strategy (Gap analysis + platform hooks) instead of simple lists. |
+| **Expert Review** | **The Devil’s Advocate** ensures a thoughtful, professional deliverable. |
+| **Output** | **Interactive Brand Deck** that is scrollable and visually formatted for clients. |
 
 ---
 
-## ⚖️ 3. The "Expert Review" (Devil’s Advocate)
-We introduced a **"The Devil’s Advocate"** node before the final output. 
-* **The Function:** It identifies three major weaknesses or brand risks in the current strategy.
-* **The Impact:** This creates a "Self-Correction" loop, making the final deliverable feel like it was vetted by a human strategist.
-
----
-
-## 🎨 4. Premium Visual Flourishes
-The final output (Rendered HTML) is designed to feel like a premium agency deliverable:
-* **Color Palette:** Automated hex-code generation based on the brand's "vibe."
-* **Social Mockups:** Copy is displayed inside simulated Instagram/X UI components.
-* **Audio Snippets:** Text-to-speech generates a 15-second radio or podcast "ad spot."
-
----
-
-## 🧪 Quick Test: "ZenTea" Example
-To see this agent in action, use the following test case:
+## 🧪 Testing the "ZenTea" Case
+Switch to **App Mode** and click **Start** to run a test with this "creative fuel":
 * **Product:** ZenTea (Sparkling Matcha)
-* **Hook:** "Calm Focus" (8 hours of energy without the jitters).
-* **Result:** A minimalist, high-end brand deck featuring editorial-style photography and a "Growth-Hacking" social strategy.
+* **Problem:** Mid-day energy crashes and coffee jitters.
+* **Vibe:** Luxury / Minimalist.
+* **Result:** A bulletproof marketing deck with editorial-grade visuals and a critical risk-assessment.
+
+---
+
+### 📚 References & Resources
+* **Official Guide:** [Opal Quickstart Documentation](https://developers.google.com/opal/quickstart)
+* **Build Mode:** [Gemini Gem Manager](https://gemini.google.com/gems/view)
