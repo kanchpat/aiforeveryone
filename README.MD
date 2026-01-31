@@ -37,7 +37,8 @@ Our series explores the vast ecosystem of AI development, helping you navigate t
 
 | Week | Topic | Resource / Prompt | Video |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | Financial Advisor Agent | [System Prompt](./Week1%20-%20Financial%20advisor.md) | [Coming Soon](#) |
+| **Week 1** | Financial Advisor Agent | [System Prompt](./Week1%20-%20Financial%20advisor.md) | [Financial Advisor Agent](https://youtu.be/ZGBTOJXF2Bk) |
+| **Week 1** | Creative Agent | [System Prompt](./Week1%20-%20Creative%20Agent.md) | [Creative Agent](https://youtu.be/R5z7NBZSFLk) |
 
 ---
 
