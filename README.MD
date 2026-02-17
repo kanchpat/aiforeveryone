@@ -35,8 +35,9 @@ Our series explores the vast ecosystem of AI development, helping you navigate t
 
 ## 🗓️ Weekly Schedule
 
+
 | Week | Product | Topic | Resource / Prompt | Video |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- |
 | **Week 1** | Gems | Financial Advisor Agent | [System Prompt](./Week1%20-%20Financial%20advisor.md) | [Financial Advisor Agent](https://youtu.be/ZGBTOJXF2Bk) |
 | **Week 1** | Gems | Creative Agent | [System Prompt](./Week1%20-%20Creative%20Agent.md) | [Creative Agent](https://youtu.be/R5z7NBZSFLk) |
 | **Week 2** | Workspace | Everyday News Briefing | [Template](https://support.google.com/workspace-studio/answer/16448808?hl=en) | [Video](https://youtu.be/SKo8y_dPvGw) |
