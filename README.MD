@@ -44,7 +44,6 @@ Our series explores the vast ecosystem of AI development, helping you navigate t
 | **Week 2** | Workspace | Tax Loss Harvesting | [Tutorial](https://developers.google.com/apps-script/samples/automations/tax-loss-harvest-alerts) | [Video](https://youtu.be/uUdjnbt5h90) |
 | **Week 3** | AI Studio | Veo and Stock Prediction | [Tutorial](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart) | [Video](https://youtu.be/c7OtIZuOf5E) |
 | **Week 4** | Canvas | Financial Analyst | [Tutorial](https://gemini.google/overview/canvas/) | [Video](https://youtu.be/fk_gzhdbLG0) |
----
 | **Week 5** | Opal | Financial Analyst  and Open house planner| [Tutorial](https://opal.google/) | [Video](https://youtu.be/qDIzcSAkU2g) |
 ---
 ## 🚀 Getting Started
