@@ -45,6 +45,8 @@ Our series explores the vast ecosystem of AI development, helping you navigate t
 | **Week 3** | AI Studio | Veo and Stock Prediction | [Tutorial](https://ai.google.dev/gemini-api/docs/ai-studio-quickstart) | [Video](https://youtu.be/c7OtIZuOf5E) |
 | **Week 4** | Canvas | Financial Analyst | [Tutorial](https://gemini.google/overview/canvas/) | [Video](https://youtu.be/fk_gzhdbLG0) |
 | **Week 5** | Opal | Financial Analyst  and Open house planner| [Tutorial](https://opal.google/) | [Video](https://youtu.be/qDIzcSAkU2g) |
+| **Week 6** | NotebookLM | Research| [Tutorial](https://notebooklm.google.com/) | [Video](https://youtu.be/5FRM-ACQLeM) |
+| **Week 7** | Agent Development Kit (ADK) | Open House Planner| [Tutorial](https://google.github.io/adk-docs/) | [Video](https://youtu.be/R60w41akFmg) |
 ---
 ## 🚀 Getting Started
 
